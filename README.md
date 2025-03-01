@@ -20,7 +20,7 @@ At the beginning, the player can choose to play as **X** or **O**.
 After playing, the game will display the result:
 - **Win:** If the player gets three in a row.
 - **Lose:** If the AI gets three in a row.
-- **Draw:** If the board is full with no winner.
+- **Tie:** If the board is full with no winner.
 
 ![Image](https://github.com/user-attachments/assets/7bdc259e-8b7e-4441-b75a-932c8963351d)
 
