@@ -1,4 +1,4 @@
-# Tic-Tac-Toe AI with Python & Pygame
+# Tic-Tac-Toe AI with Python & Pygame 
 
 This is a Python implementation of Tic-Tac-Toe with an AI opponent using the Minimax algorithm. The game features a graphical user interface (GUI) built with Pygame, allowing a human player to compete against an intelligent computer opponent.
 
